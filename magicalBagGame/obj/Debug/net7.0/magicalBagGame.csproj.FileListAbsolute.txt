@@ -1,0 +1,15 @@
+D:\Git-hub\magicalBagGame\magicalBagGame\bin\Debug\net7.0\magicalBagGame.exe
+D:\Git-hub\magicalBagGame\magicalBagGame\bin\Debug\net7.0\magicalBagGame.deps.json
+D:\Git-hub\magicalBagGame\magicalBagGame\bin\Debug\net7.0\magicalBagGame.runtimeconfig.json
+D:\Git-hub\magicalBagGame\magicalBagGame\bin\Debug\net7.0\magicalBagGame.dll
+D:\Git-hub\magicalBagGame\magicalBagGame\bin\Debug\net7.0\magicalBagGame.pdb
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.csproj.AssemblyReference.cache
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.AssemblyInfoInputs.cache
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.AssemblyInfo.cs
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.csproj.CoreCompileInputs.cache
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.dll
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\refint\magicalBagGame.dll
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.pdb
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\magicalBagGame.genruntimeconfig.cache
+D:\Git-hub\magicalBagGame\magicalBagGame\obj\Debug\net7.0\ref\magicalBagGame.dll
